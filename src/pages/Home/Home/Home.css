@@ -1,0 +1,22 @@
+.custom-nav a {
+  color: #282828 !important;
+  text-decoration: none;
+}
+.custom-nav a:hover {
+  color: #fe4b4c !important;
+}
+
+.custom-icon {
+  font-size: 40px;
+  color: #fe4b4c;
+}
+.sub-title {
+  color: #fe4b4c;
+}
+.btn-primary {
+  background-color: #fe4b4c !important;
+  border-color: #fe4b4c !important;
+}
+.btn-primary:hover {
+  background-color: #d11818 !important;
+}

@@ -1,0 +1,52 @@
+.footer {
+  background-color: #01234e;
+}
+.footer-content {
+  color: #a7a7a7;
+}
+.footer-content h4 {
+  color: #fff;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+}
+.footer-content h6 {
+  color: #fff;
+  font-size: 15px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 300;
+}
+.footer-content ul {
+  padding: 0;
+}
+.footer-content ul li {
+  list-style: none;
+}
+.footer-content ul li a {
+  text-decoration: none;
+  color: #a7a7a7;
+  line-height: 30px;
+  transition: all 0.3s ease-in-out;
+}
+.footer-content ul li a:hover {
+  color: #ff3333;
+}
+.footer-content span {
+  font-size: 14px;
+  border: 1px solid #fff;
+  padding: 3px 10px;
+  display: inline-block;
+  border-radius: 5px;
+  margin: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+.footer-content span:hover {
+  border: 1px solid #ff3333;
+}
+.copyrhgit {
+  color: #fff;
+  border-top: 1px solid #ddd;
+}
